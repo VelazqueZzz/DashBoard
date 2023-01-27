@@ -16,5 +16,10 @@ namespace DashBoard
         {
             InitializeComponent();
         }
+
+        private void guna2GradientPanel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
