@@ -21,5 +21,16 @@ namespace DashBoard
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            contextMenuStrip1.Show(guna2Button2, guna2Button2.Width, 0);
+
+        }
     }
 }
